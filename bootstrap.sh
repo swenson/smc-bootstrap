@@ -4,7 +4,7 @@ git clone https://github.com/swenson/smc-bootstrap .smc-bootstrap
 cat .smc-bootstrap/bashrc >> .bashrc
 
 # setup ssh keys
-cp .smc-boostrap/ssh/id_dsa* .ssh/
+cp .smc-bootstrap/ssh/id_dsa* .ssh/
 
 # git
 git config --global user.name "Christopher Swenson"
