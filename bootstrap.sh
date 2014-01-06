@@ -9,3 +9,5 @@ cp .smc-bootstrap/ssh/id_dsa* .ssh/
 # git
 git config --global user.name "Christopher Swenson"
 git config --global user.email chris@caswenson.com
+
+source ~/.bashrc
